@@ -17,3 +17,6 @@
 **git checkout** - вернуться к версии
 
 **git diff** - показать разницу в версиях
+
+[Шпаргалка по консольным командам Git](https://github.com/cyberspacedk/Git-commands)
+
